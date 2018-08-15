@@ -1,5 +1,3 @@
-## IonicGeolocationDemo
-
-This is Ionic Framework Google Maps demo application made for blog article: http://www.gajotres.net/using-cordova-geoloacation-api-with-google-maps-in-ionic-framework/
-
-
+This is a demo geolocation app, created Using IONIC.
+Do open www/index.html using your favorite  browser.
+Thank you 
